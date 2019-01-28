@@ -1,0 +1,66 @@
+.container {
+ 	width: 740px;
+ 	margin: 0 auto;
+
+ }
+.footer {
+    min-height: 150px;
+ 	background: #515151;
+ 	width: 100%;
+ }
+ .details{
+ 	width: 940px;
+ 	height: 150px;
+ }
+ .sign {
+ 	margin-top: 20px;
+ 	width: 460px;
+ 	float: left;
+ }
+ .sign h1 {
+ 	color: #ede8e5;
+ 	font-size: 20px;
+ }
+ .sign a {
+ 	text-decoration: none;
+ 	font-size: 18px;
+ 	color: #ede8e5;
+ 	margin-top: 10px;
+	padding: 10px 80px;
+	background: #18a1b7;
+	border-radius: 9px;
+	float: left;
+	overflow: auto;
+	color: #fff;
+ }
+ .services {
+ 	margin-top: 20px;
+ 	width: 460px;
+ 	float: right;
+ }
+ .services h1 {
+ 	margin-bottom: 40px;
+ 	color: #ede8e5;
+ 	font-size: 20px;
+ }
+ .services p {
+ 	margin-bottom: 20px;
+ 	color: #ede8e5;
+ 	font-size: 22px;
+ 	line-height: 0;
+ }
+ .copy {
+ 	padding: 0px 0px 18px 0px;
+ 	margin: 0;
+ 	width: 940px;
+ 	overflow: hidden;
+	border-top: 1px solid #686868;
+ }
+ .copy h6::before {
+ 	content: '©'
+ }
+ .copy h6 {
+ 	color: #9e9e9e;
+ 	font-size: 11px;
+ 	font-weight: normal;
+ }

@@ -1,0 +1,32 @@
+.header {
+	overflow: hidden;
+	background: #204b52;
+    width: 100%;
+}
+
+.header h1 {
+    padding-left: 50px;
+	margin-top: 30px;
+	font-size: 25px;
+	font-weight: bold;
+	color: #f6fafa;
+	float: left;
+}
+.nav {
+	float: right;
+    padding-right: 30px;
+}
+.nav h3 {
+	margin-top: 40px;
+	display: inline-block;
+	float: right;
+	text-transform: uppercase;
+	margin-left: 30px;
+	font-size: 17px;
+}
+.nav a {
+	padding-bottom: 20px;
+	font-weight: 600;
+	text-decoration: none;
+	color: #f6fafa;
+}

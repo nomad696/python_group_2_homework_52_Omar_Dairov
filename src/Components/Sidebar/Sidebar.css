@@ -1,0 +1,22 @@
+.sidebar{
+		margin: 0;
+		padding: 0;
+		width: 200px;
+		background-color: #f1f1f1;
+		height: 550px;
+		overflow: auto;
+		float: left;
+		text-align: center;
+	}
+
+.sidebar a {
+	margin-top: 10px;
+	padding: 10px 30px;
+	background: #18a1b7;
+	border-radius: 9px;
+	float: right;
+	overflow: hidden;
+	text-decoration: none;
+	color: #fff;
+	text-align: center;
+}
